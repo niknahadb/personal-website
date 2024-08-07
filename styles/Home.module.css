@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  margin-left: 20vw;
+  max-width: 70vw;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+@media(max-width: 1300px) {
+  .main {
+    margin-left: 25vw;
+  }
+}
+
+@media(max-width: 1024px) {
+  .main {
+    margin-left: 30vw;
+    max-width: 60vw;
+  }
+}
+
+@media(max-width: 664px) {
+  .main {
+    margin: 5rem;
+    max-width: 100%;
+  }
+
+  .intro {
+    height: 50vh;
+  }
+}
