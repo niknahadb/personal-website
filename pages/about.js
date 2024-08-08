@@ -55,7 +55,7 @@ const About = React.forwardRef((_, ref) => {
             <a href="https://www.codelabdavis.com/" target="blank">
               <span>CodeLab</span>,
             </a>
-            the largest software and design agency in Davis.
+            the largest software and design agency in Davis. 
           </p>
 
           <h3 data-aos="fade-up">Technical Skills</h3>
