@@ -50,7 +50,7 @@ const About = React.forwardRef((_, ref) => {
             expansion of tech-driven companies.
           </p>
           <p data-aos="fade-up">
-            I&apos;ve also had the opportunity to work on several engaging and
+            I have also worked on several engaging and
             rewarding projects as a full-stack software developer at{" "}
             <a href="https://www.codelabdavis.com/" target="blank">
               <span>CodeLab</span>
