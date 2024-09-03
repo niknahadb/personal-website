@@ -21,7 +21,11 @@ const Projects = React.forwardRef((_, ref) => {
                             <div>
                                 <div className={styles.header}>
                                     <h4>{project.title}</h4>
-                                    <a href={project.githubLink} target='blank'><AiFillGithub size={40}/></a>
+                                    {project.githubLink && (
+                                        <a href={project.githubLink} target='blank'>
+                                            <AiFillGithub size={40} />
+                                        </a>
+                                    )}
                                 </div>
                                 <p>{project.description}</p>
                             </div>
