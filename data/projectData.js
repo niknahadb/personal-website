@@ -15,7 +15,7 @@ const projectData = [
   },
   {
     title: "The Plant Paramedic",
-    description: `Designed and built an automated plant watering system built using C and TI CC3200 Launchpad`,
+    description: `Designed and built an automated plant watering system using C and TI CC3200 Launchpad`,
     techStack: "C, HTML/CSS",
     githubLink: "https://niknahadb.github.io/plantparamedic/",
   },
