@@ -4,7 +4,10 @@ const experienceData = [
     title: "Senior Software Engineering Intern @ ",
     time: "May 2024 - Present",
     description: [
-      "Engineered core full-stack features and mobile app screens for Mobile Text Alerts, an online SMS marketing platform that sends 100M+ messages across 20,000+ businesses with over eight figures in annual revenue",
+      "Engineered core full-stack features and mobile app screens for Mobile Text Alerts, a prominent SMS marketing platform that sends 100M+ messages across 20,000+ businesses with over eight figures in annual revenue",
+      "Spearheaded the development of a scalable Email & SMS verification system for the mobile app in React Native and TypeScript, driving the app's trial-to-paid account conversion rate by 18%",
+      "Elevated backend performance by restructuring key data-handling workflows in Node.js and React alongside optimizing MySQL queries, achieving significant reductions in render time and CPU usage",
+      "Documented and resolved all Android and iOS related issues, collaborating closely with cross-functional teams to deliver a high-quality, error-free application",
       "Performed meticulous code reviews, enforcing industry standards to ensure site reliability and scalability",
     ],
   },
@@ -23,9 +26,9 @@ const experienceData = [
     title: "Software Engineer Intern @ ",
     time: "May 2023 - August 2023",
     description: [
-      "Developed key features and screens for the mobile app from scratch such as the Settings Screen and Two-Factor Authentication for the mobile app in React Native and Typescript to ensure a smooth, reliable, and responsive user experience leading to an increase of +5,000 weekly visitors",
-      "Enhanced customer interaction by implementing a new AI Text Generator Tool, SmartSMS Suggest, in addition to revamping the customer support platform infrastructure and frontend using React and Node.js to better aid the customer support team which expedited customer complaint resolution times by over 35%",
-      "Documented and resolved Android and iOS codebase issues through streamlined processes and cross-functional communication to deliver a high-quality, error-free application",
+      "Developed key features and screens for the mobile app such as Two-Factor Authentication and the Settings Screen using React Native and Typescript to ensure a smooth, reliable, and responsive user experience leading to an increase of +5,000 weekly visitors",
+      "Redesigned and optimized the admin platform's infrastructure and frontend with React and Node.js, resulting in nearly a 50% reduction in complaint resolution times and a significant boost in customer support efficiency",
+      "Maintained a focus on code quality, performance optimization, and adherence to industry standards throughout the development process",
     ],
   },
   {
