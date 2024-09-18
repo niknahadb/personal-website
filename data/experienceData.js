@@ -8,7 +8,6 @@ const experienceData = [
       "Spearheaded the development of a scalable Email & SMS verification system for the mobile app in React Native and TypeScript, driving the app's trial-to-paid account conversion rate by 18%",
       "Elevated backend performance by restructuring key data-handling workflows in Node.js and React alongside optimizing MySQL queries, achieving significant reductions in render time and CPU usage",
       "Documented and resolved all Android and iOS related issues, collaborating closely with cross-functional teams to deliver a high-quality, error-free application",
-      "Performed meticulous code reviews, enforcing industry standards to ensure site reliability and scalability",
     ],
   },
   {
