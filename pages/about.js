@@ -42,8 +42,8 @@ const About = React.forwardRef((_, ref) => {
           <p data-aos="fade-up">
             Now, I&apos;m a fourth year at UC Davis majoring in{" "}
             <span>Computer Science & Engineering</span>. For the past two
-            summers, I developed impactful client-facing features from the
-            ground up as a Software Engineering Intern at{" "}
+            summers, I've developed several impactful client-facing features
+            from the ground up as a Software Engineering Intern at{" "}
             <a href="https://www.vimblygroup.com/" target="blank">
               <span>Vimbly Group</span>
             </a>
