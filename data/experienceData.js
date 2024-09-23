@@ -1,7 +1,7 @@
 const experienceData = [
   {
     name: "Vimbly Group '24",
-    title: "Senior Software Engineering Intern @ ",
+    title: "Senior Software Engineer Intern @ ",
     time: "May 2024 - August 2024",
     description: [
       "Engineered core full-stack features and mobile app screens for Mobile Text Alerts, a prominent SMS marketing platform that sends 100M+ messages across 20,000+ businesses with over eight figures in annual revenue",
