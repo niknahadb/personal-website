@@ -1,7 +1,7 @@
 const projectData = [
   {
     title: "TrainingTool",
-    description: `Completely rebuilt CodeLab's internal learning platform, primarily the backend using Java and Spring Boot, to vastly improve the platform's scalability and performance`,
+    description: `Built an online learning platform for CodeLab using Java and Typescript, significantly enhancing the platform's scalability and performance to better support the organization's educational goals`,
     techStack:
       "Java, Spring Boot, Typescript, React, PostreSQL, Docker, AWS S3, Postman",
     githubLink: "",
