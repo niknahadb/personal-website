@@ -3,6 +3,7 @@ const experienceData = [
     name: "ASUCD Innovation and Research Lab",
     title: "Software Developer @ ",
     time: "Oct 2024 - Present",
+    description: ["I work on cool projects"],
   },
   {
     name: "Vimbly Group '24",
