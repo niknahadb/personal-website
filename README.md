@@ -1,3 +1,3 @@
 # Personal Website
 
-View the live website [here](https://borna-personal-web.vercel.app/).
+View the live website [here](https://borna-nik.vercel.app/).
