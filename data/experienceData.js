@@ -1,9 +1,11 @@
 const experienceData = [
   {
     name: "ASUCD Innovation and Research Lab",
-    title: "Software Developer @ ",
+    title: "Lead Software Developer @ ",
     time: "Oct 2024 - Present",
-    description: ["I work on cool projects"],
+    description: [
+      "Lead and manage ucdhacknight.com, where I guide 50+ students in building technically complex personal projects",
+    ],
   },
   {
     name: "Vimbly Group '24",
