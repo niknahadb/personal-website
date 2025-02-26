@@ -1,5 +1,11 @@
 const projectData = [
   {
+    title: "Minesweeper DDQN",
+    description: `Built and trained a scalable Double Deep Q-Network (DDQN) AI agent to play Minesweeper at expert difficulty, achieving a 28% win rate over 25,000 games`,
+    techStack: "Python",
+    githubLink: "",
+  },
+  {
     title: "TrainingTool",
     description: `Built an online learning platform for CodeLab using Java and Typescript, significantly enhancing the platform's scalability and performance to better support the organization's educational goals`,
     techStack:
