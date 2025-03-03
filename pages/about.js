@@ -40,10 +40,10 @@ const About = React.forwardRef((_, ref) => {
             has only grown more profound ever since.
           </p>
           <p data-aos="fade-up">
-            Now, I&apos;m a fourth year at UC Davis majoring in{" "}
-            <span>Computer Science & Engineering</span>. For the past two
-            summers, I&apos;ve developed several impactful client-facing
-            features as a Software Engineering Intern at{" "}
+            Now, I&apos;m studying <span>Computer Science & Engineering</span>{" "}
+            at the University of California, Davis. For the past two summers,
+            I&apos;ve developed numerous impactful features and tools as a
+            Software Engineering Intern at{" "}
             <a href="https://www.vimblygroup.com/" target="blank">
               <span>Vimbly Group</span>
             </a>
@@ -51,8 +51,12 @@ const About = React.forwardRef((_, ref) => {
             expansion of tech-driven companies.
           </p>
           <p data-aos="fade-up">
-            I have also worked on several engaging and rewarding projects as a
-            full-stack software developer at{" "}
+            Here in Davis, I organize and run{" "}
+            <a href="https://ucdhacknight.com/" target="blank">
+              <span>hack nights</span>
+            </a>{" "}
+            (you should check it out!). I have also worked on several engaging
+            and rewarding projects as a full-stack software developer at{" "}
             <a href="https://www.codelabdavis.com/" target="blank">
               <span>CodeLab</span>
             </a>
@@ -73,7 +77,7 @@ const About = React.forwardRef((_, ref) => {
 
           <p data-aos="fade-up">
             In my free time, I like to read, lift weights, swim, and craft
-            unique sandwiches!
+            unique sandwiches! (self-proclaimed sandwich artist and expert)
           </p>
         </div>
 

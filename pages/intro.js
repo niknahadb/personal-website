@@ -28,8 +28,8 @@ const Intro = React.forwardRef((_, ref) => {
           I&apos;m a full-stack software engineer and iOS developer from
           Southern California. I am driven by a passion for building efficient,
           high-quality software that solves impactful problems at scale.
-          Recently, I&apos;ve been learning about machine learning, operating
-          systems, and embedded systems.
+          Recently, I&apos;ve been learning about machine learning, computer
+          vision, and embedded systems.
         </div>
       </div>
     </div>
