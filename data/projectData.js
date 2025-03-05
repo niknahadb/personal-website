@@ -1,13 +1,20 @@
 const projectData = [
   {
     title: "Minesweeper DDQN",
-    description: `Built and trained a scalable Double Deep Q-Network (DDQN) AI agent to play Minesweeper at expert difficulty, achieving a 28% win rate over 25,000 games`,
-    techStack: "Python",
-    githubLink: "",
+    description: `Training a scalable Double Deep Q-Network (DDQN) AI agent to play Minesweeper at expert difficulty`,
+    techStack: "Python, Keras",
+    githubLink: "https://github.com/niknahadb/Minesweeper-DDQN",
+  },
+  {
+    title: "ASL Translation App",
+    description: `Developing an open source ASL Detection and Translation App that bridges the communication gap between individuals who primarily rely on ASL and those who use the spoken language`,
+    techStack:
+      "TypeScript, React Native, Python, PyTorch, XCode, Android Studio, Expo Go",
+    githubLink: "https://github.com/niknahadb/ASL-Translation-App",
   },
   {
     title: "TrainingTool",
-    description: `Built an online learning platform for CodeLab using Java and Typescript, significantly enhancing the platform's scalability and performance to better support the organization's educational goals`,
+    description: `Built an online learning platform for Davis' largest software and design agency using Java and Typescript, vastly enhancing the platform's scalability and performance for over 200+ active users`,
     techStack:
       "Java, Spring Boot, Typescript, React, PostreSQL, Docker, AWS S3, Postman",
     githubLink: "",
@@ -20,8 +27,14 @@ const projectData = [
     githubLink: "",
   },
   {
+    title: "No Bland Breakfast Sandos",
+    description: `Created a fun, lighthearted app to gauge my friends' taste and style in breakfast sandwiches`,
+    techStack: "TypeScript, Vercel",
+    githubLink: "https://rate-my-sando.vercel.app/",
+  },
+  {
     title: "The Plant Paramedic",
-    description: `Designed and built an automated plant watering system using C and TI CC3200 Launchpad`,
+    description: `Designed and built an automated plant watering system primarily using C and a TI CC3200 Launchpad`,
     techStack: "C, HTML/CSS",
     githubLink: "https://niknahadb.github.io/plantparamedic/",
   },
