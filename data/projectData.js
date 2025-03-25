@@ -2,14 +2,14 @@ const projectData = [
   {
     title: "Minesweeper DDQN",
     description: `Training a scalable Double Deep Q-Network (DDQN) AI agent to play Minesweeper at expert difficulty`,
-    techStack: "Python, Keras",
+    techStack: "Python, Keras, Tensorflow",
     githubLink: "https://github.com/niknahadb/Minesweeper-DDQN",
   },
   {
     title: "ASL Translation App",
     description: `Developing an open source ASL Detection and Translation App that bridges the communication gap between individuals who primarily rely on ASL and those who use the spoken language`,
     techStack:
-      "TypeScript, React Native, Python, PyTorch, XCode, Android Studio, Expo Go",
+      "TypeScript, React Native, Python, PyTorch, Tensorflow, OpenCV, XCode, Android Studio, Expo Go",
     githubLink: "https://github.com/niknahadb/ASL-Translation-App",
   },
   {
