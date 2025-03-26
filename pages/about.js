@@ -28,41 +28,34 @@ const About = React.forwardRef((_, ref) => {
       <div className={styles.container}>
         <div className={styles.body}>
           <p data-aos="fade-up">
-            My first encounter with programming was in sixth grade when I
-            discovered{" "}
-            <a href="https://scratch.mit.edu/" target="blank">
-              <span>Scratch</span>
-            </a>
-            , a beginner friendly block-based programming interface. I was
-            instantly captivated by the endless possibilities it offered, losing
-            track of time creating interactive games and projects. This early
-            exposure sparked a passion for solving problems through coding that
-            has only grown more profound ever since.
+            My first encounter with programming was in seventh grade when I
+            discovered basic HTML and web development. I was fascinated by the
+            endless possibilities it offered. This early exposure sparked a
+            passion for solving problems through coding that has only grown more
+            profound ever since.
           </p>
           <p data-aos="fade-up">
             Now, I&apos;m studying <span>Computer Science & Engineering</span>{" "}
-            at the University of California, Davis. For the past two summers,
-            I&apos;ve developed numerous impactful features and tools as a
-            Software Engineering Intern at{" "}
+            at the University of California, Davis. For the past two summers, I
+            developed several impactful features and tools and helped scale
+            businessses as a Software Engineering Intern at{" "}
             <a href="https://www.vimblygroup.com/" target="blank">
               <span>Vimbly Group</span>
             </a>
-            , a New York City based profitable startup focused on the growth and
-            expansion of tech-driven companies.
+            , a tech startup in NYC with a diverse portfolio of businessses.
           </p>
           <p data-aos="fade-up">
-            Here in Davis, I organize and run{" "}
+            Here in Davis, I run and organize{" "}
             <a href="https://ucdhacknight.com/" target="blank">
-              <span>hack nights</span>
+              <span>Hack Nights</span>
             </a>{" "}
-            (you should check it out!). I have also worked on several engaging
-            and rewarding projects as a full-stack software developer at{" "}
+            (click it!). I have also worked on several engaging and rewarding
+            projects as a full-stack software developer at{" "}
             <a href="https://www.codelabdavis.com/" target="blank">
               <span>CodeLab</span>
             </a>
-            , the largest software and design agency in Davis.
+            , the largest software and design agency at Davis.
           </p>
-
           <h3 data-aos="fade-up">Technical Skills</h3>
           <div data-aos="zoom-in-up">
             <div className={styles.skills}>
@@ -74,7 +67,6 @@ const About = React.forwardRef((_, ref) => {
               ))}
             </div>
           </div>
-
           <p data-aos="fade-up">
             In my free time, I like to read, lift weights, swim, and craft
             unique sandwiches! (self-proclaimed sandwich artist and expert)
