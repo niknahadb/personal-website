@@ -17,14 +17,14 @@ const projectData = [
     description: `Built an online learning platform for Davis' largest software and design agency using Java and Typescript, vastly enhancing the platform's scalability and performance for over 200+ active users`,
     techStack:
       "Java, Spring Boot, Typescript, React, PostreSQL, Docker, AWS S3, Postman",
-    githubLink: "",
+    githubLink: "https://github.com/niknahadb/training-tool",
   },
   {
     title: "Due Today",
     description: `Created a website in React that collects assignment's deadlines from multiple websites, then sorts the data into an interactive calendar to keep track of progress and deadlines with 100% accuracy. 
     Utilized Axios library along with Express.js and MongoDB to seamlessly fetch and integrate data from Canvas LMS REST API, providing real-time access to students' assignment details on a centralized dashboard.`,
     techStack: "React, Javascript, Express, NodeJS, MongoDB, Mongoose",
-    githubLink: "",
+    githubLink: "https://github.com/niknahadb/due-today",
   },
   {
     title: "No Bland Breakfast Sandos",
